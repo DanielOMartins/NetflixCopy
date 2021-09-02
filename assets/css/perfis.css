@@ -1,0 +1,11 @@
+.perfis{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 60%;
+    height: 40%;  
+}

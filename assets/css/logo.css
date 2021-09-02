@@ -1,0 +1,13 @@
+.logo{
+    width: 95%;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.logo__netflix{
+    text-decoration: none;
+    color: #e50914;
+    font-size: 1.75rem;
+}
